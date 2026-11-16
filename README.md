@@ -1,4 +1,4 @@
-﻿# AI-Based Stock Prediction Engine
+# AI-Based Stock Prediction Engine
 
 An integrated AI framework for short-term stock prediction and performance analysis, built for **TCS.NS** (Tata Consultancy Services). It collects daily market data, computes technical indicators, trains four models, evaluates them against a no-change baseline, and presents everything in an interactive Streamlit dashboard.
 
@@ -87,8 +87,8 @@ python lstm_model.py
 
 ## Authors
 
-- Attili V S S S Kiran Kumar (24STUCHH010745)
-- Anjum Sultana (24STUCHH010681)
+- Kiran Kumar Attili
+- Anjum Sultana
 
 Supervisor: Dr. Sathya AR
 
